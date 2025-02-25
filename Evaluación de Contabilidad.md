@@ -60,7 +60,7 @@ Es un título valor mediante el cual una persona (emisor o deudor) se compromete
 
 **Beneficiario:** Quien recibe el pago.
 
-**Fecha de Emisió:** Fecha en la que se firma el pagaré.
+**Fecha de Emisión:** Fecha en la que se firma el pagaré.
 
 **Fecha de Vencimiento:** Fecha en la que se debe pagar.
 
