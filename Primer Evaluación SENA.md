@@ -23,6 +23,17 @@
 - El Fundador del SENA es Gustavo Rojas Pinilla
 - El SENA Ofrece Formación del Tipo "Técnica, Tecnológica y Complementaria"
 
+- Los Propósitos de la FPI en el SENA son Aprender a Aprender, Aprender a Hacer y Aprender a Ser
+- La FPI del SENA imparte en los Centros de Formación
+- El Enfoque de la FPI en el SENA es por Competencias
+- El papel que Juegan los Instructores en la FPI del SENA es el de Facilitadores del Aprendizaje
+- Los Recursos Tecnol+ogicos que se Utilizan en la FPI del SENA son los Laboratorios, Simuladores y Plataformas Virtuales
+- Los Beneficios que Ofrece la FPI del SENA a los Aprendices son la Inserción Laboral y el Desarrollo Personal
+- La Sigla FPI en el Sena Significa "Formación Profesional Integral
+- El Objetivo Principal de la FPI del SENA es Formar Integralmente a los Aprendices
+- El Aprendizaje por Proyectos es Una Estrategia Didáctica Activa
+- Los 3 Tipos de Evidencias de Apredizaje del SENA son el Conocimiento, el Producto y el Desempeño
+
 ---
 
 ## Símbolos del SENA
