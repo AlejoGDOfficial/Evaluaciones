@@ -10,7 +10,7 @@ También hizo aportes a la óptica, demostrando que la luz blanca es una combina
 
 Inventó el telescopio reflector para mejorar la observación astronómica y evitar las aberraciones del telescopio refractor.
 
-Newton fue presidente de la _Royal Society_ y ocupó el cargo de director de la _Casa de la Moneda Británica_, donde reformó el sistema monetario, fue nombrado caballero por la reina Ana en 1705, murió el 31 de marzo de 1727 en Londres y fue enterrado con honores en la _Abadía de Westminster.
+Newton fue presidente de la _Royal Society_ y ocupó el cargo de director de la _Casa de la Moneda Británica_, donde reformó el sistema monetario, fue nombrado caballero por la reina Ana en 1705, murió el 31 de marzo de 1727 en Londres y fue enterrado con honores en la _Abadía de Westminster_.
 
 ---
 
