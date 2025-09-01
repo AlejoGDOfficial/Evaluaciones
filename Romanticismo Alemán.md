@@ -60,4 +60,4 @@ El Romanticismo Alemán surgió luego de la Revolución Francesa en 1789, llegó
 7. **Richard Wagner**: Compositor alemán y crítico musical, sentó las bases de la opera moderna.
 8. **Beethoven**: Compositor y pianista alemán reconocido por sus obras para piano y sus sinfonías, en la que destaca Sinfonía No. 9 y No. 5.
 9. **Francisco de Goya**: Pintor español, se destacaban sus obras en óleo, sus dibujos y sus murales.
-10. **William Blake**: 
+10. **William Blake**: Poesta, pintor y escritor inglés, mezcló la poesía y la pintura en sus obras. Obras destacadas: El Anciano de los Días y Canciones de Inocencia y de Experiencia.
