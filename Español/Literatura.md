@@ -62,7 +62,7 @@ Los poetas líricos cantan sus sentimientos al son de una lira en ciudades, sant
 |-|-|-|
 |Temas|Apoyados en la mitología épica, se centra en el destino, la culpa, el castigo divino, el conflicto entre el individuo y la ciudad, la angustia y su liberación|Se centra en la crítica social, uniendo fantasía y realidad, e la que se unen elementos como las ilusiones, insultos, chistes sexuales, parodias, con el fin de provocar risa o burla|
 |Acción Dramática|Se basa en el sufrimiento por un conflicto, y termina con la pérdida de la vida del héroe o de sus familiares/amigos|Nace en una situación angustiosa que el héroe resuelve al final de la obra|
-|Personajes|Los personajes son héroes o dioses que neutralizan los problemas de la existencia y la relación del hombre con su destino, el mundo, la justicia divina, o sus propias pasiones. En la comedia, los personajes son inventados por el autor, reales o dioses diversos|
+|Personajes|Los personajes son héroes o dioses que neutralizan los problemas de la existencia y la relación del hombre con su destino, el mundo, la justicia divina, o sus propias pasiones.|Los personajes son inventados por el autor, reales o dioses diversos|
 |Héroes|El héroe personifica los valores humanos, y se enfrenta a un conflicto de difícil solución|El héroe cómico es el protagonista, y aunque débil, triunfa explicando artimañas inverosímiles|
 |Identificación con el Héroe|Produce en el espectador una catársis, gracias a la cual libera sus propios sentimientos|Es un reflejo de las historias de la sociedad, ya que ofrece ideas de la época, o frases del momento|
 |Lenguaje|Su lenguaje es culto o elevado|Su lenguaje es vulgar, e incluso obseno|
